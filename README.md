@@ -1,6 +1,10 @@
-/****************************************
-		Grunt Installation		
-*****************************************/
+First need to install node 
+
+https://nodejs.org/en/download/
+
+/** Grunt Installation **/
+
+Open root dir in cmd 
 
 1. npm install -g grunt-cli
 
