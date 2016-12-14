@@ -1,3 +1,8 @@
+First need to install node 
+
+https://nodejs.org/en/download/
+
+
 /****************************************
 		Grunt Installation		
 *****************************************/
