@@ -1,0 +1,20 @@
+{
+  "name": "support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagarajanprince/grunt.git"
+  },
+  "author": "Nagarajan M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagarajanprince/grunt/issues"
+  },
+  "homepage": "https://github.com/nagarajanprince/grunt#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
